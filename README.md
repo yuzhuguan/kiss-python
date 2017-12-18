@@ -15,4 +15,5 @@ A curated list of awesome Python frameworks, libraries, software and resources
 5. Awesome-TensorFlow-Chinese https://github.com/fendouai/Awesome-TensorFlow-Chinese
 6. 中文古诗自动作诗机器人，屌炸天，基于tensorflow1.4 api https://github.com/jinfagang/tensorflow_poems
 7. Magenta: Music and Art Generation with Machine Intelligence https://github.com/tensorflow/magenta
+8. TensorFlow Tutorial and Examples for Beginners with Latest APIs https://github.com/aymericdamien/TensorFlow-Examples
 
